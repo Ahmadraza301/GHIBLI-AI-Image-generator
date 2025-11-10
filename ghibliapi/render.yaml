@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: ghibli-ai-backend
+    env: java
+    buildCommand: ./mvnw clean install -DskipTests
+    startCommand: java -jar target/ghibliapi-0.0.1-SNAPSHOT.jar
+    envVars:
+      - key: STABILITY_API_KEY
+        sync: false
+      - key: JAVA_TOOL_OPTIONS
+        value: -Xmx512m
