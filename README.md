@@ -53,11 +53,9 @@ For major changes, open an issue first to discuss what you'd like to change.
 
 ## 📬 Contact
 
-Made with ❤️ by Rakesh
+Made with ❤️ by Ahmad Ansari
 
-- 🐦 Twitter: [@SpringDevRakesh](https://x.com/SpringDevRakesh?t=EWYtiOLVjf0N6OWj-ykcjA&s=09)
-- 💼 LinkedIn: [Rakesh Kumar Parida](https://www.linkedin.com/in/rakesh-kumar-parida-523b55308/)
-- 📺 YouTube: [@Rakesh_2801](https://www.youtube.com/@Rakesh_2801)
+
 
 ---
 
