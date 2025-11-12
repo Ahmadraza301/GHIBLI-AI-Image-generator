@@ -54,7 +54,7 @@ const Footer = () => (
                 <p>&copy; 2025 Ghibli AI. All rights reserved.</p>
                 <div className="flex space-x-4 mt-4 md:mt-0">
                     <a href="https://x.com/SpringDevRakesh?t=EWYtiOLVjf0N6OWj-ykcjA&s=09" className="hover:text-gray-900"><Twitter size={18} /></a>
-                    <a href="https://www.linkedin.com/in/rakesh-kumar-parida-523b55308/" target="_blank" className="hover:text-gray-900"><Linkedin size={18} /></a>
+                    <a href="https://www.linkedin.com/in/ahmadraza301/" target="_blank" className="hover:text-gray-900"><Linkedin size={18} /></a>
                     <a href="https://www.youtube.com/@Rakesh_2801" className="hover:text-gray-900"><Youtube size={18} /></a>
                 </div>
             </div>
