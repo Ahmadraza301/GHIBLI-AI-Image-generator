@@ -53,9 +53,9 @@ const Footer = () => (
             <div className="border-t border-gray-400/50 pt-6 flex flex-col md:flex-row justify-between items-center text-sm text-gray-600">
                 <p>&copy; 2025 Ghibli AI. All rights reserved.</p>
                 <div className="flex space-x-4 mt-4 md:mt-0">
-                    <a href="https://x.com/SpringDevRakesh?t=EWYtiOLVjf0N6OWj-ykcjA&s=09" className="hover:text-gray-900"><Twitter size={18} /></a>
+                    <a href="https://x.com/AhmadAn24574619" className="hover:text-gray-900"><Twitter size={18} /></a>
                     <a href="https://www.linkedin.com/in/ahmadraza301/" target="_blank" className="hover:text-gray-900"><Linkedin size={18} /></a>
-                    <a href="https://www.youtube.com/@Rakesh_2801" className="hover:text-gray-900"><Youtube size={18} /></a>
+                
                 </div>
             </div>
         </div>
